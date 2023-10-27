@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Nerdy152
-- 👀 I’m interested in hacking in termux
-- 🌱 I’m currently learning termux hacking skills...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 👀 I’m currently doing Web Dev
+- 🌱 I’m currently learning Javascript...
+- 💞️ I’m looking to collaborate on HTML , CSS and JAVASCIPT
+- 📫 How to reach me : Whatsapp : 0813168793
+-                     : Email  : enhlenqatyelwa6@gmail.com
 
 <!---
 Nerdy152/Nerdy152 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
