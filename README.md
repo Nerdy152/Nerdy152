@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Enhle Nqatyelwa
 - 👀 I’m currently doing Web Dev
-- 🌱 I’m currently learning Javascript...
+- 🌱 I’m currently learning Python...
 - 💞️ I’m looking to collaborate on HTML & VBNET projects
 - 📫 How to reach me : Whatsapp : 0813168793
 -                     : Email  : enhlenqatyelwa6@gmail.com
